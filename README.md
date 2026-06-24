@@ -1,5 +1,5 @@
   PROJECT OVERVIEW
-   This project analyzes cyber attack data using Microsoft Excel, Power BI and SQL Server to identify attack types, attack patterns and network protocol. The goal was to transform the raw data to uncover insights that can help firms and organizations improve and tighten their cybersecurity strategies.
+  - This project analyzes cyber attack data using Microsoft Excel, Power BI and SQL Server to identify attack types, attack patterns and network protocol. The goal was to transform the raw data to uncover insights that can help firms and organizations improve and tighten their cybersecurity strategies.
   
   PROJECT OBJECTIVES
   - Performed same Analysis across different tools, solving same Questions.

@@ -16,7 +16,7 @@
  
    KEY INSIGHTS 
   - After cleaning and preparing the Dataset which originally had 100,000 rows, 99,999 valid rows were found.
-  - By the end of this analysis, 75.12% of records were attacks while 25.88% were normal traffic and Attack rate was 75.12%.
+  - By the end of this analysis, 75.12% of records were attacks, while 25k were normal traffic and Attack rate was 75.12%.
   - DDoS had the highest average packet count and byte usage.
   - Normal traffic showed the highest average duration compared to attack types.
   - BruteForce attacks had the highest failed login attempts.

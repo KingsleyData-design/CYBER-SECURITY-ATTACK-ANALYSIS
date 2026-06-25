@@ -1,0 +1,80 @@
+﻿attack_type                                        attack_count
+-------------------------------------------------- ------------
+DDoS                                               25077
+BruteForce                                         25039
+PortScan                                           25007
+Normal                                             24876
+
+(4 rows affected)
+
+protocol                                           protocol_count
+-------------------------------------------------- --------------
+TCP                                                50186
+UDP                                                49813
+
+(2 rows affected)
+
+attack_type                                        avg_duration
+-------------------------------------------------- ------------
+Normal                                             32
+BruteForce                                         25
+PortScan                                           5
+DDoS                                               3
+
+(4 rows affected)
+
+attack_type                                        avg_failed_logins
+-------------------------------------------------- -----------------
+BruteForce                                         6
+Normal                                             0
+PortScan                                           0
+DDoS                                               0
+
+(4 rows affected)
+
+attack_type                                        avg_packet_count
+-------------------------------------------------- ----------------
+DDoS                                               551
+PortScan                                           174
+BruteForce                                         55
+Normal                                             27
+
+(4 rows affected)
+
+attack_type                                        avg_source_bytes avg_destination_bytes
+-------------------------------------------------- ---------------- ---------------------
+DDoS                                               6497             274
+Normal                                             1545             1049
+BruteForce                                         547              273
+PortScan                                           274              110
+
+(4 rows affected)
+
+attack_type                                        protocol                                           record_count
+-------------------------------------------------- -------------------------------------------------- ------------
+BruteForce                                         UDP                                                25039
+DDoS                                               TCP                                                25077
+Normal                                             TCP                                                12543
+Normal                                             UDP                                                12333
+PortScan                                           TCP                                                12566
+PortScan                                           UDP                                                12441
+
+(6 rows affected)
+
+total_records attack_records attack_rate_percentage
+------------- -------------- ---------------------------------------
+99999         75123          75.120000000000
+
+(1 row affected)
+
+attack_type                                        avg_duration duration_rank
+-------------------------------------------------- ------------ --------------------
+Normal                                             32           1
+BruteForce                                         25           2
+PortScan                                           5            3
+DDoS                                               3            4
+
+(4 rows affected)
+
+
+Completion time: 2026-06-25T21:06:47.3297771+01:00

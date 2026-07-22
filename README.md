@@ -19,7 +19,7 @@
  ## Key Metrics
 
  | Metric | Value |
- |———|———:|
+ |---|---:|
  | **Total Records** | **99,999** |
  | **Attack Records** | **75,123** |
  | **Attack Rate** | **75.12%** |

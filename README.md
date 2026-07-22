@@ -11,10 +11,10 @@
   - Created visualizations to support cybersecurity decision making
 
   ## Tools Used
-**Excel** — Data cleaning, Data exploration, Pivot Tables, Dashboard
-**Power BI** — Interactive dashboard with KPI cards
-**SQL (SSMS)** — Data querying and aggregation
-**Python** — Data analysis and visualization (Pandas, Matplotlib, Seaborn)
+- **Excel** — Data cleaning, Data exploration, Pivot Tables, Dashboard
+- **Power BI** — Interactive dashboard with KPI cards
+- **SQL (SSMS)** — Data querying and aggregation
+- **Python** — Data analysis and visualization (Pandas, Matplotlib, Seaborn)
 
  ## Key Metrics
 

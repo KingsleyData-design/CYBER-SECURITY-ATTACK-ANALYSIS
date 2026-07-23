@@ -14,11 +14,11 @@
   
   
    ## Insights — What the data actually says 
--**Attacks made up the clear majority of network activity** — 75.12% out of 99,999 records were classified as attacks , compared with 24.88% normal traffic. Meaning the dataset is heavily weighted toward malicious  activity. 
--**DDoS attacks generated the highest network activity** — they had the highest average packet count and the highest average source byte usage, making them the most significant attack type in terms of network volume. 
--**Normal traffic had the longest average duration** — it lasted significantly longer than the attack types in this dataset, while DDoS had the shortest average duration.
+**Attacks made up the clear majority of network activity** — 75.12% out of 99,999 records were classified as attacks , compared with 24.88% normal traffic. Meaning the dataset is heavily weighted toward malicious  activity. 
+**DDoS attacks generated the highest network activity** — they had the highest average packet count and the highest average source byte usage, making them the most significant attack type in terms of network volume. 
+**Normal traffic had the longest average duration** — it lasted significantly longer than the attack types in this dataset, while DDoS had the shortest average duration.
 -**Brute Force attacks recorded the highest average number of failed logins** — which fits the nature of attack, as repeated login attempts are a key indicator of credential based attacks.
--**TCP and UDP traffic were almost evenly split** — the network traffic was not concentrated on a single protocol.
+**TCP and UDP traffic were almost evenly split** — the network traffic was not concentrated on a single protocol.
 
 
   ## Recommendations — What does this mean for a security team?

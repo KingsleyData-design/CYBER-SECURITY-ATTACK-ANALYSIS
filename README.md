@@ -1,4 +1,4 @@
-   # CYBER SECURITY ATTACK ANALYSIS DASHBOARD 
+   # CYBERSECURITY ATTACK AND NETWORK TRAFFIC ANALYSIS DASHBOARD 
 
    ## PROJECT OVERVIEW
   **How can a Cybersecurity Attack happen to an organization whose purpose is to protect against cyber threats?** That was the first question i could think of when i got hold of this dataset. By the end of the analysis, i got to learn that, Cyberattacks can affect even organizations with strong security expertise.  This project analyzes network traffic data using Excel, Power BI, Python and SQL Server to identify attack patterns, compare different attack types, and understand how malicious activity differs from normal network behavior. The goal was to transform the raw data to uncover insights that can help firms and organizations improve and tighten their cybersecurity strategies.
